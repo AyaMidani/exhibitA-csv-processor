@@ -6,14 +6,15 @@ It calculates **distinct play counts** and the number of **clients** who generat
 
 ## Project Structure
 ```
-ConsoleApp1/
- ├── input/               # Place the input CSV file here
- │    └── exhibitA-input.csv
- ├── output/              # Processed results will be written here
- │    └── results.csv
- ├── Program.cs           # Main application code
- ├── ConsoleApp1.csproj   # Project configuration
- └── README.md            # Project documentation
+exhibitA-csv-processor/
+ ├─ input/
+ │  └─ exhibitA-input.csv    (tab-delimited)
+ ├─ output/
+ │  └─ results.csv
+ ├─ Program.cs
+ ├─ exhibitA-csv-processor.csproj
+ ├─ exhibitA-csv-processor.sln
+ └─ README.md
 ```
 
 ## Input Format
