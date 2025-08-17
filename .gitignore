@@ -1,0 +1,16 @@
+# Build folders
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# User-specific files
+*.user
+*.suo
+
+# Logs
+*.log

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ayamydani/Documents/Projects/ConsoleApp1/exhibitA-csv-processor/exhibitA-csv-processor.csproj": {}
+    "/Users/ayamydani/Documents/Projects/exhibitA-csv-processor/exhibitA-csv-processor.csproj": {}
   },
   "projects": {
-    "/Users/ayamydani/Documents/Projects/ConsoleApp1/exhibitA-csv-processor/exhibitA-csv-processor.csproj": {
+    "/Users/ayamydani/Documents/Projects/exhibitA-csv-processor/exhibitA-csv-processor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ayamydani/Documents/Projects/ConsoleApp1/exhibitA-csv-processor/exhibitA-csv-processor.csproj",
+        "projectUniqueName": "/Users/ayamydani/Documents/Projects/exhibitA-csv-processor/exhibitA-csv-processor.csproj",
         "projectName": "exhibitA-csv-processor",
-        "projectPath": "/Users/ayamydani/Documents/Projects/ConsoleApp1/exhibitA-csv-processor/exhibitA-csv-processor.csproj",
+        "projectPath": "/Users/ayamydani/Documents/Projects/exhibitA-csv-processor/exhibitA-csv-processor.csproj",
         "packagesPath": "/Users/ayamydani/.nuget/packages/",
-        "outputPath": "/Users/ayamydani/Documents/Projects/ConsoleApp1/exhibitA-csv-processor/obj/",
+        "outputPath": "/Users/ayamydani/Documents/Projects/exhibitA-csv-processor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ayamydani/.nuget/NuGet/NuGet.Config"
