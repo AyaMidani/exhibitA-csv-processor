@@ -1,0 +1,14 @@
+/Users/ayamydani/Documents/Projects/ConsoleApp1/exhibitA-csv-processor/bin/Debug/net8.0/exhibitA-csv-processor
+/Users/ayamydani/Documents/Projects/ConsoleApp1/exhibitA-csv-processor/bin/Debug/net8.0/exhibitA-csv-processor.deps.json
+/Users/ayamydani/Documents/Projects/ConsoleApp1/exhibitA-csv-processor/bin/Debug/net8.0/exhibitA-csv-processor.runtimeconfig.json
+/Users/ayamydani/Documents/Projects/ConsoleApp1/exhibitA-csv-processor/bin/Debug/net8.0/exhibitA-csv-processor.dll
+/Users/ayamydani/Documents/Projects/ConsoleApp1/exhibitA-csv-processor/bin/Debug/net8.0/exhibitA-csv-processor.pdb
+/Users/ayamydani/Documents/Projects/ConsoleApp1/exhibitA-csv-processor/obj/Debug/net8.0/exhibitA-csv-processor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayamydani/Documents/Projects/ConsoleApp1/exhibitA-csv-processor/obj/Debug/net8.0/exhibitA-csv-processor.AssemblyInfoInputs.cache
+/Users/ayamydani/Documents/Projects/ConsoleApp1/exhibitA-csv-processor/obj/Debug/net8.0/exhibitA-csv-processor.AssemblyInfo.cs
+/Users/ayamydani/Documents/Projects/ConsoleApp1/exhibitA-csv-processor/obj/Debug/net8.0/exhibitA-csv-processor.csproj.CoreCompileInputs.cache
+/Users/ayamydani/Documents/Projects/ConsoleApp1/exhibitA-csv-processor/obj/Debug/net8.0/exhibitA-csv-processor.dll
+/Users/ayamydani/Documents/Projects/ConsoleApp1/exhibitA-csv-processor/obj/Debug/net8.0/refint/exhibitA-csv-processor.dll
+/Users/ayamydani/Documents/Projects/ConsoleApp1/exhibitA-csv-processor/obj/Debug/net8.0/exhibitA-csv-processor.pdb
+/Users/ayamydani/Documents/Projects/ConsoleApp1/exhibitA-csv-processor/obj/Debug/net8.0/exhibitA-csv-processor.genruntimeconfig.cache
+/Users/ayamydani/Documents/Projects/ConsoleApp1/exhibitA-csv-processor/obj/Debug/net8.0/ref/exhibitA-csv-processor.dll
